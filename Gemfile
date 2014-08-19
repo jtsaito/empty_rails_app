@@ -8,7 +8,7 @@ gem 'sqlite3'
 gem 'mysql'
 gem 'mysql2'
 
-gem 'unicorn'
+#gem 'unicorn'
 
 # Use SCSS for stylesheets
 #gem 'sass-rails', '~> 4.0.3'
